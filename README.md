@@ -79,7 +79,7 @@ SignalDeck goes beyond text, utilizing **Generative UI** to render rich, interac
 
 ---
 
-## 🕵️ Deep Research Mode
+##  Deep Research Mode
 
 **"Act as a Senior Equity Analyst"**
 
