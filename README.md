@@ -14,7 +14,7 @@
   />
 </a>
 
-**Next-Gen Market Analysis with LPU™ Inference Speed**
+**Next-Gen Market Analysis with LPU Inference Speed**
 
 [Features](#-key-features) • [Architecture](#-technical-architecture) • [Research Mode](#-deep-research-mode) • [UI Components](#-interactive-financial-ui)
 
