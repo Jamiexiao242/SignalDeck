@@ -10,6 +10,7 @@
   <img
     src="https://console.groq.com/powered-by-groq-light.svg"
     alt="Powered by Groq for fast inference."
+    width="160"
   />
 </a>
 
@@ -51,8 +52,8 @@ An autonomous agentic workflow that goes beyond simple chat:
 
 SignalDeck goes beyond text, utilizing **Generative UI** to render rich, interactive widgets directly in the chat stream.
 
-| Component | Description | Visual |
-|-----------|-------------|--------|
+| Component | Description |  
+|-----------|-------------|
 | **Advanced Stock Charts** | Full-featured TradingView charts with timeframes, indicators, and comparison supports. |
 | **Financial Health** | Visual breakdown of Revenue, Earnings, and critical financial ratios. | 
 | **Market Heatmaps** | Live visualization of sector performance and market breadth. | 
