@@ -1,11 +1,17 @@
-# ⚡️ SignalDeck: The AI-Powered Financial Intelligence Platform
+#  SignalDeck: The AI-Powered Financial Intelligence Platform
 
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![Groq](https://img.shields.io/badge/Powered%20By-Groq-orange?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+<a href="https://groq.com" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://console.groq.com/powered-by-groq-light.svg"
+    alt="Powered by Groq for fast inference."
+  />
+</a>
 
 **Next-Gen Market Analysis with LPU™ Inference Speed**
 
@@ -15,19 +21,19 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 **SignalDeck** is a cutting-edge AI financial assistant re-engineered for the speed of thought. Built on **Next.js 14** and powered by **Groq's LPU™ (Language Processing Unit)** technology, it delivers sub-second market insights, real-time charting, and autonomous equity research.
 
 Unlike traditional chatbots, SignalDeck integrates directly with live market data and professional visualization tools, transforming natural language queries into interactive financial dashboards.
 
-## 🌟 Key Features
+##  Key Features
 
-### ⚡️ **Instantaneous AI Inference**
+###  **Instantaneous AI Inference**
 - **Powered by Groq**: Leverages the world's fastest AI inference engine to provide near-instant responses.
 - **LLM Agnostic**: Optimized for open models like **Llama 3** and **Mixtral 8x7b** via Groq API.
 
-### 🧠 **Deep Research Agent**
+###  **Deep Research Agent**
 An autonomous agentic workflow that goes beyond simple chat:
 - **Multi-Source Synthesis**: Aggregates data from news, corporate filings, and market sentiment.
 - **Structured Reporting**: Generates professional-grade equity research reports complete with:
@@ -35,34 +41,28 @@ An autonomous agentic workflow that goes beyond simple chat:
     - **LaTeX Financial Math**: Rendering complex valuation formulas beautifully.
     - **Source Citations**: Fully referenced facts for reliability.
 
-### 🌐 **Real-Time Market Data**
+###  **Real-Time Market Data**
 - **Live Web Search**: Integrates **SearXNG** or **Google Custom Search** to fetch up-to-the-minute news and events.
 - **Fallback Mechanisms**: Robust error handling ensures you always get an answer, even if primary data sources are intermittent.
 
 ---
 
-## 📊 Interactive Financial UI
+##  Interactive Financial UI
 
 SignalDeck goes beyond text, utilizing **Generative UI** to render rich, interactive widgets directly in the chat stream.
 
 | Component | Description | Visual |
 |-----------|-------------|--------|
-| **Advanced Stock Charts** | Full-featured TradingView charts with timeframes, indicators, and comparison supports. | 📈 |
-| **Financial Health** | Visual breakdown of Revenue, Earnings, and critical financial ratios. | 💰 |
-| **Market Heatmaps** | Live visualization of sector performance and market breadth. | 🗺️ |
-| **ETF & Sector Maps** | Track performance across different asset classes and industries. | 🏦 |
-| **Stock Screener** | Filter and discover stocks based on technical and fundamental criteria. | 🔍 |
-| **Trending Tickers** | Real-time list of top gainers, losers, and most active stocks. | 🔥 |
+| **Advanced Stock Charts** | Full-featured TradingView charts with timeframes, indicators, and comparison supports. |
+| **Financial Health** | Visual breakdown of Revenue, Earnings, and critical financial ratios. | 
+| **Market Heatmaps** | Live visualization of sector performance and market breadth. | 
+| **ETF & Sector Maps** | Track performance across different asset classes and industries. | 
+| **Stock Screener** | Filter and discover stocks based on technical and fundamental criteria. | 
+| **Trending Tickers** | Real-time list of top gainers, losers, and most active stocks. | 
 
 ---
 
-## 🏗 Technical Architecture
-
-### **Core Stack**
-- **Framework**: Next.js 14 (App Router)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS + Shadcn UI (Radix Primitives)
-- **AI SDK**: Vercel AI SDK (RSC - React Server Components)
+##  Technical Architecture
 
 ### **Integrations**
 - **AI Provider**: Groq Cloud API
