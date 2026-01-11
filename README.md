@@ -28,7 +28,7 @@ extended with custom features, improved UI, and enhanced search capabilities.
 
 ##  Overview
 
-**SignalDeck** is a cutting-edge AI financial assistant re-engineered for the speed of thought. Built on **Next.js 14** and powered by **Groq's LPU™ (Language Processing Unit)** technology, it delivers sub-second market insights, real-time charting, and autonomous equity research.
+**SignalDeck** is a cutting-edge AI financial assistant re-engineered for the speed of thought. Built on **Next.js 14** and powered by **Groq's LPU (Language Processing Unit)** technology, it delivers sub-second market insights, real-time charting, and autonomous equity research.
 
 Unlike traditional chatbots, SignalDeck integrates directly with live market data and professional visualization tools, transforming natural language queries into interactive financial dashboards.
 
