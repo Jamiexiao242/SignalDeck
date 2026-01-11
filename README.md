@@ -22,6 +22,10 @@
 
 ---
 
+SignalDeck is built on top of 
+[stockbot-on-groq](https://github.com/bklieger-groq/stockbot-on-groq), 
+extended with custom features, improved UI, and enhanced search capabilities.
+
 ##  Overview
 
 **SignalDeck** is a cutting-edge AI financial assistant re-engineered for the speed of thought. Built on **Next.js 14** and powered by **Groq's LPU™ (Language Processing Unit)** technology, it delivers sub-second market insights, real-time charting, and autonomous equity research.
